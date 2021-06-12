@@ -1,0 +1,9 @@
+# Site configuration
+theme: # Not using a theme
+title: 2048 Prototype
+description: A 2048 game prototype
+author: Matiboux
+lang: en
+
+# Jekyll confiuration
+exclude: [CNAME, LICENSE, README.md]
